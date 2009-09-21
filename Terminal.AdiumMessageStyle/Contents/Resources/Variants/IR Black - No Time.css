@@ -1,5 +1,8 @@
-@import url(../main.css);
+/*
+@import url(../ir_black_main.css);
 
-@import url(../namecolors.css);
-@import url(../statuscolors.css);
-@import url(../notime.css);
+@import url(../ir_black_namecolors.css);
+@import url(../ir_black_statuscolors.css);
+*/
+@import url(IR\ Black.css);
+@import url(../general_notime.css);

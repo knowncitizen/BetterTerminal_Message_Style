@@ -1,0 +1,7 @@
+.incoming .fname, .incoming .time, .incoming .sender{
+    color: #abed6a;
+}
+
+.outgoing .fname, .outgoing .time, .outgoing .sender{
+    color: #b6b5dd;
+}
