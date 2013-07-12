@@ -5,6 +5,9 @@
 
 Black is beautiful, this message style is inspired by Terminal.app
 
+Version 1.3 - [2013-07-12]
+  * Updated hyperlinks color for themes with dark background
+
 Version 1.2 - [2012-09-05]
   * Added "Tomorrow Night" theme
 
