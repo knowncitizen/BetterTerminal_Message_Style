@@ -17,3 +17,21 @@ body
 #Chat {
 	padding-bottom: 2px;
 }
+
+a:link
+{
+	color: #de935f;
+	text-decoration: underline;
+}
+
+a:hover
+{
+	color: #cc6666;
+	text-decoration: underline;
+}
+
+a:active
+{
+	color: #b5bd68;
+	text-decoration: underline;
+}
