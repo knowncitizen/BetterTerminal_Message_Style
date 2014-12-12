@@ -1,6 +1,6 @@
 #BetterTerminal Adium Message Style
 @author Jason E. Rist
-###Message Style forked from Terminal Adium Message Style written by [@jldbasa/terminal_adium_message_style](https://github.com/jldbasa/terminal_adium_message_style)
+####Message Style forked from Terminal Adium Message Style written by [@jldbasa/terminal_adium_message_style](https://github.com/jldbasa/terminal_adium_message_style)
 
 Direct Download: [BetterTerminal](https://github.com/knowncitizen/BetterTerminal_Message_Style/archive/master.zip)
 
