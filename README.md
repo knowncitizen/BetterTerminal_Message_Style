@@ -2,7 +2,7 @@
 @author Jason E. Rist
 ###Message Style forked from Terminal Adium Message Style written by [@jldbasa/terminal_adium_message_style](https://github.com/jldbasa/terminal_adium_message_style)
 
-Direct Download: [BetterTermianl](https://github.com/knowncitizen/terminal_adium_message_style/zipball/master)
+Direct Download: [BetterTerminal](https://github.com/knowncitizen/terminal_adium_message_style/archive/master.zip)
 
 Version 1.4.2 - [2014-12-12] **_Fork_**
   * Brightened up the colors via CSS, added sender coloring
