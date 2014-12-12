@@ -7,11 +7,11 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleGetInfoString</key>
-	<string>Terminal Adium Message Style</string>
+	<string>BetterTerminal Adium Message Style</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.adiumx.terminal.style</string>
 	<key>CFBundleInfoDictionaryVersion</key>
-	<string>1.4.2</string>
+	<string>1.4.3</string>
 	<key>CFBundleName</key>
 	<string>Terminal</string>
 	<key>CFBundlePackageType</key>
