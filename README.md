@@ -12,7 +12,7 @@ Version:
 - 1.4 - [2013-07-19]
   - Added "Ninja" variant :)
 - 1.3 - [2013-07-12]
-  -Updated hyperlinks color for themes with dark background
+  - Updated hyperlinks color for themes with dark background
 - 1.2 - [2012-09-05]
   - Added "Tomorrow Night" theme
 - 1.1 - [2009-10-12]
