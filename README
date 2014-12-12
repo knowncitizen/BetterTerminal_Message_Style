@@ -1,9 +1,12 @@
 +-----------------------------------------------------------------------------+
-| Terminal Adium Message Style                                                |
-| @author Jerome Lemuel Basa                                                  |
+| Terminal Adium Message Style 2                                              |
+| @author Jason E. Rist							      |
 +-----------------------------------------------------------------------------+
 
 Black is beautiful, this message style is inspired by Terminal.app
+
+Version 1.4.2 - [2014-12-12]
+  * Brightened up the colors via CSS, added sender coloring
 
 Version 1.4 - [2013-07-19]
   * Added "Ninja" variant :)
