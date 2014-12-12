@@ -1,11 +1,10 @@
-+-----------------------------------------------------------------------------+
-| Terminal Adium Message Style 2                                              |
-| @author Jason E. Rist							      |
-+-----------------------------------------------------------------------------+
+#BetterTerminal Adium Message Style
+@author Jason E. Rist
+###Message Style forked from Terminal Adium Message Style written by [@jldbasa/terminal_adium_message_style](https://github.com/jldbasa/terminal_adium_message_style)
 
-Black is beautiful, this message style is inspired by Terminal.app
+Direct Download: [BetterTermianl](https://github.com/knowncitizen/terminal_adium_message_style/zipball/master)
 
-Version 1.4.2 - [2014-12-12]
+Version 1.4.2 - [2014-12-12] **_Fork_**
   * Brightened up the colors via CSS, added sender coloring
 
 Version 1.4 - [2013-07-19]
