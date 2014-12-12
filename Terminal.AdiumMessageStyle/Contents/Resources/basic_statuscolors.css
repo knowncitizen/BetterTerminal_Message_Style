@@ -9,3 +9,11 @@
 .teaser, .error .message, .timed_out .message { color:#ed0707; }
 .encryption .message{color: green;}
 .fileTransferBegan .message, .fileTransferComplete .message{ color: lightblue; }
+.message {
+	filter: brightness(0.2);
+	// Browser Specific
+	-webkit-filter: brightness(0.2);
+	-moz-filter: brightness(0.2);
+	-o-filter: brightness(0.2);
+	-ms-filter: brightness(0.2);
+}
